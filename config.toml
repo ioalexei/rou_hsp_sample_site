@@ -1,4 +1,4 @@
-baseURL = "https://graceful-malasada-e15775.netlify.app/map/"
+baseURL = "https://graceful-malasada-e15775.netlify.app/"
 languageCode = "en-us"
 title = "Sample map site"
 theme = "minimal-bootstrap-hugo-theme"
