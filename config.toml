@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://graceful-malasada-e15775.netlify.app/map/"
 languageCode = "en-us"
-title = "Some Title"
+title = "Sample map site"
 theme = "minimal-bootstrap-hugo-theme"
 
 [taxonomies]
@@ -11,7 +11,7 @@ theme = "minimal-bootstrap-hugo-theme"
   post = "/:filename/"
 
 [params]
-  description = "Some description"
+  description = "Sample map site"
   contentBackgroundColor = "#fff"
   contentTextColor = "#212529"
   contentLinkColor = "#007bff"
