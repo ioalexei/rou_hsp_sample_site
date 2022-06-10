@@ -65,7 +65,7 @@ var rou_adm2 =
 };
 
 
-L.geoJSON(rou_adm2).addTo(map);
+L.geoJSON(rou_adm2, {fillOpacity: 0, colour: 'black', weight:1}).addTo(map);
 
 
 map.fitBounds(bounds);
